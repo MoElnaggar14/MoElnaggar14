@@ -2,6 +2,8 @@
  
 **From a mobile user to a developer**, I am an aspiring iOS Software Engineer 👨🏼‍💻 who is love new technologies, collaborate on open source projects and building community [SwiftCairo](https://twitter.com/SwiftCairo)🇪🇬.
 
+![MoElnaggar's github stats](https://github-readme-stats.vercel.app/api?username=MoElnaggar14&show_icons=true&line_height=30)
+
 *💬 Ask me about Swift, iOS, New technology, Sports and Music.*
 
 #### You can ask me anything and Reach out me
