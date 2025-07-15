@@ -103,7 +103,7 @@ I'm a **Senior iOS Engineer at CAFU Dubai** with 6+ years of experience crafting
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoElnaggar14&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moelnaggar14&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoElnaggar14&layout=compact&theme=react&hide_border=true&langs_count=6" />
 
 </div>
