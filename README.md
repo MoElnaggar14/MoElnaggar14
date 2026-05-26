@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FA7343,100:F05138&height=200&section=header&text=Mohammed%20Elnaggar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%C2%B7%20Cairo%20%E2%86%92%20KSA%20%C2%B7%20Recognized%20by%20Apple%20%EF%A3%BF%20%C2%B7%20Co-founder%2C%20SwiftCairo&descAlignY=60&descSize=15" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FA7343,100:F05138&height=200&section=header&text=Mohammed%20Elnaggar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Global%20iOS%20Engineer%20%C2%B7%20Shipping%20across%20MENA%2C%20Europe%20%26%20LATAM%20%C2%B7%20Recognized%20by%20Apple%20%EF%A3%BF&descAlignY=60&descSize=15" alt="header" />
 
-### Senior iOS Engineer @ **Gathern Holding** &nbsp;·&nbsp; ex-CAFU, Vodafone &nbsp;·&nbsp; Co-founder, SwiftCairo
+### Senior iOS Engineer @ **Gathern Holding** &nbsp;·&nbsp; ex-CAFU, Vodafone
 
-7+ years turning ambitious product ideas into iOS apps that ship — to millions of users, across the GCC, EU, and LATAM.
+### Co-founder, **SwiftCairo** &nbsp;·&nbsp; Lead, **[Ameen app](https://ameenapp.org/)**
+
+7+ years turning ambitious product ideas into iOS apps that ship — to millions of users, across **three continents** (MENA, Europe & LATAM).
 
 <br/>
 
@@ -23,7 +25,7 @@
 
 ## 👋 Hi, I'm Mohammed
 
-I help product teams ship iOS apps that are **fast, reliable, and loved by users**. I've led iOS engineering at a hospitality unicorn in KSA, the largest fuel-delivery platform in the UAE, and a multinational telco. On the side, I co-founded **SwiftCairo** — Egypt's largest iOS community — and mentor the next generation of engineers across the region.
+I help product teams ship iOS apps that are **fast, reliable, and loved by users** — wherever in the world they live. I've led iOS engineering at a hospitality unicorn in KSA, the largest fuel-delivery platform in the UAE, a multinational telco operating across Europe, and a Budapest-based product agency serving LATAM clients. On the side, I co-founded **SwiftCairo** — Egypt's largest iOS community — and lead the iOS team at **[Ameen](https://ameenapp.org/)**, building faith-tech that serves Muslims worldwide.
 
 I care equally about the product, the people building it, and the code underneath.
 
@@ -41,9 +43,9 @@ I care equally about the product, the people building it, and the code underneat
 
 <div align="center">
 
-| 🚀 7+ | 🌍 6 | 📦 40% | ⚡ 60% | 👥 50+ | 🎤 50+ |
+| 🌍 3 | 🚀 7+ | 🗺 6 | 📦 40% | ⚡ 60% | 👥 50+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Years shipping iOS | Countries deployed | App-size reduction | Faster releases | Devs mentored | Community events |
+| Continents shipped to | Years building iOS | Countries deployed | App-size reduction | Faster releases | Devs mentored |
 
 </div>
 
@@ -74,6 +76,36 @@ Egypt's largest iOS community. Meetups, workshops, the SwiftCairo Podcast (1K+ s
 
 </td></tr>
 </table>
+
+---
+
+## 🕌 Faith-tech — building for the Ummah
+
+Technology that serves Muslims worldwide is a personal mission, not a side gig. I lead the iOS team at **[Ameen](https://ameenapp.org/)** — a comprehensive Islamic lifestyle app combining **Quran, prayer times, dhikr, Zakat & Islamic finance,** and broader spiritual tools in one place.
+
+<table>
+<tr><td width="60%" valign="top">
+
+### 📱 [Ameen](https://ameenapp.org/) &nbsp;·&nbsp; *Lead iOS Engineer*
+
+> An all-in-one companion for Muslim daily life — Quran reading, accurate prayer times & qibla, dhikr / adhkar, Zakat calculation and halal-finance tools, plus learning content.
+
+Building it with the same engineering rigor I bring to commercial products — clean architecture, modular SPM, privacy-first analytics, and respectful, low-distraction UX.
+
+`Swift` &nbsp; `SwiftUI` &nbsp; `Modular SPM` &nbsp; `Privacy-first`
+
+</td><td width="40%" valign="top">
+
+### Related open source
+
+🕌 **[SalahBreak](https://github.com/salahbreak/salahbreak)** — macOS menu-bar prayer-break app with auto-updates via Sparkle.
+
+🤲 More Islamic-tech experiments and contributions in the works — DM me if you're building in this space.
+
+</td></tr>
+</table>
+
+> *Building for the Ummah is the work I'm proudest of. If you're building a product that serves Muslims and you care about doing it right — let's talk.*
 
 ---
 
@@ -203,7 +235,7 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 <div align="center">
 
-🚀 **Hiring senior iOS talent** &nbsp;·&nbsp; 🧱 **Architecture audits** &nbsp;·&nbsp; 🇸🇦 **Building for the GCC market** &nbsp;·&nbsp; 🎤 **SwiftCairo collabs**
+🚀 **Hiring senior iOS talent** &nbsp;·&nbsp; 🧱 **Architecture audits** &nbsp;·&nbsp; 🌍 **Going global from MENA** &nbsp;·&nbsp; 🕌 **Faith-tech & Islamic services** &nbsp;·&nbsp; 🎤 **SwiftCairo collabs**
 
 </div>
 
