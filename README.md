@@ -6,7 +6,7 @@
 
 ### Co-founder, **SwiftCairo** &nbsp;·&nbsp; Lead, **[Ameen app](https://ameenapp.org/)**
 
-7+ years turning ambitious product ideas into iOS apps that ship — to millions of users, across **three continents** (MENA, Europe & LATAM).
+7+ years turning ambitious product ideas into iOS apps that ship — to **millions of users**, across **three continents** (MENA, Europe & LATAM).
 
 <br/>
 
@@ -43,9 +43,9 @@ I care equally about the product, the people building it, and the code underneat
 
 <div align="center">
 
-| 🌍 3 | 🚀 7+ | 🗺 6 | 📦 40% | ⚡ 60% | 👥 50+ |
+| 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 7+ | 📦 40% | 👥 50+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Continents shipped to | Years building iOS | Countries deployed | App-size reduction | Faster releases | Devs mentored |
+| Ramadan users on Ameen | Guests on Gathern | Continents shipped to | Years building iOS | App-size reduction | Devs mentored |
 
 </div>
 
@@ -61,7 +61,7 @@ I care equally about the product, the people building it, and the code underneat
 ### 🏨 Gathern Holding &nbsp;·&nbsp; *Senior iOS Engineer*
 **2026 → now &nbsp;·&nbsp; Riyadh / Remote**
 
-Building the iOS experience for KSA's leading hospitality platform — chalets, farms, and short-stay rentals for millions of guests across the Kingdom.
+Building the iOS experience for KSA's leading hospitality platform — chalets, farms, and short-stay rentals trusted by **millions of guests** across the Kingdom.
 
 `Swift` &nbsp; `SwiftUI` &nbsp; `Modular SPM` &nbsp; `CI/CD`
 
@@ -89,6 +89,8 @@ Technology that serves Muslims worldwide is a personal mission, not a side gig. 
 ### 📱 [Ameen](https://ameenapp.org/) &nbsp;·&nbsp; *Lead iOS Engineer*
 
 > An all-in-one companion for Muslim daily life — Quran reading, accurate prayer times & qibla, dhikr / adhkar, Zakat calculation and halal-finance tools, plus learning content.
+
+🌙 **Reached 2M+ users during Ramadan** — peak-traffic scale meets spiritually meaningful UX.
 
 Building it with the same engineering rigor I bring to commercial products — clean architecture, modular SPM, privacy-first analytics, and respectful, low-distraction UX.
 
