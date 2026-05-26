@@ -98,11 +98,13 @@ Building it with the same engineering rigor I bring to commercial products — c
 
 </td><td width="40%" valign="top">
 
-### Related open source
+### 🕌 [SalahBreak](https://github.com/salahbreak/salahbreak) &nbsp;·&nbsp; *Creator & Maintainer*
 
-🕌 **[SalahBreak](https://github.com/salahbreak/salahbreak)** — macOS menu-bar prayer-break app with auto-updates via Sparkle.
+My own macOS menu-bar app that gently reminds you to step away for prayer — built solo, Sparkle-distributed, used daily.
 
-🤲 More Islamic-tech experiments and contributions in the works — DM me if you're building in this space.
+`macOS` &nbsp; `SwiftUI` &nbsp; `Sparkle`
+
+🤲 *More Islamic-tech experiments in the works — DM me if you're building in this space.*
 
 </td></tr>
 </table>
