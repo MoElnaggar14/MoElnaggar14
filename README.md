@@ -1,95 +1,209 @@
 <div align="center">
 
-# Mohammed Elnaggar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C2A8&height=200&section=header&text=Mohammed%20Elnaggar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%C2%B7%20Cairo%20%E2%86%92%20KSA%20%C2%B7%20Building%20apps%20used%20in%206%2B%20countries&descAlignY=60&descSize=15" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=007ACC&center=true&vCenter=true&width=620&lines=Senior+iOS+Engineer+%40+Gathern+Holding;7%2B+years+shipping+iOS+at+scale;Co-Founder+%E2%80%94+SwiftCairo+Community;Swift+%C2%B7+SwiftUI+%C2%B7+Clean+Architecture)](https://git.io/typing-svg)
+### Senior iOS Engineer @ **Gathern Holding** &nbsp;·&nbsp; ex-CAFU, Vodafone &nbsp;·&nbsp; Co-founder, SwiftCairo
 
-Building iOS apps that ship to millions — from Cairo, with users across the GCC and beyond.
+7+ years turning ambitious product ideas into iOS apps that ship — to millions of users, across the GCC, EU, and LATAM.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moelnaggar14/)
-[![X / Twitter](https://img.shields.io/badge/@MoElnaggar14-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/MoElnaggar14)
-[![Email](https://img.shields.io/badge/moelnaggar14@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moelnaggar14@gmail.com)
-[![SwiftCairo](https://img.shields.io/badge/SwiftCairo-FA7343?style=flat-square&logo=swift&logoColor=white)](https://github.com/SwiftCairo)
-
-</div>
-
----
-
-### About
-
-Senior iOS Engineer at **Gathern Holding** (KSA), previously at **CAFU** (Dubai) and **VOIS / Vodafone**. I focus on Swift, SwiftUI, clean modular architecture, CI/CD, and turning slow legacy codebases into fast, testable ones. Outside of work I co-run **SwiftCairo**, Egypt's largest iOS community.
-
-```swift
-let me = Engineer(
-    role: "Senior iOS @ Gathern Holding",
-    based: "Cairo, Egypt",
-    shipping: ["KSA", "UAE", "Egypt", "EU", "LATAM"],
-    loves: [.swift, .swiftUI, .cleanArchitecture, .mentoring],
-    community: "SwiftCairo · co-founder since 2018"
-)
-```
-
-### Selected impact
-
-- **40%** app size reduction on a multi-country production iOS app via modularization + asset strategy
-- **60%** faster releases by rebuilding the deploy pipeline on Fastlane + signed CI
-- Shipped apps to users across **6 countries** — UAE, KSA, Egypt, Hungary, Brazil, Lebanon
-- Mentored **50+** iOS developers through SwiftCairo workshops, podcasts, and 1:1s
-- Built and led the iOS chapter for fuel-delivery, telco, and hospitality products
-
-### Open source — recent work
-
-| Repo | What it is |
-| --- | --- |
-| [**SwiftMoLogger**](https://github.com/MoElnaggar14/SwiftMoLogger) | Production-grade iOS logging framework with MetricKit crash reporting, 40+ tags, zero deps |
-| [**SwiftPermissions**](https://github.com/MoElnaggar14/SwiftPermissions) | Modern iOS permissions package — async/await, Combine, SwiftUI views |
-| [**SalahBreak**](https://github.com/salahbreak/salahbreak) | macOS menu-bar app for prayer-time breaks (Sparkle-distributed) |
-| [**Caffeine**](https://github.com/MoElnaggar14/Caffeine) | A modern macOS take on the classic Caffeine utility |
-| [**MeetupSessions**](https://github.com/SwiftCairo/MeetupSessions) | SwiftCairo talks: code, slides, recordings (80★) |
-
-### Tech I reach for
-
-**Languages** Swift · Objective-C  
-**UI** SwiftUI · UIKit · Combine · Swift Concurrency  
-**Architecture** Clean Architecture · MVVM · TCA · Modular SPM  
-**Platform** Core Bluetooth · NFC · Apple Pay · StoreKit · MetricKit  
-**Tooling** Xcode · Fastlane · GitHub Actions · Firebase  
-**Analytics** Amplitude · CleverTap · Tealium  
-**Beyond iOS** A bit of macOS (SwiftUI + AppKit), Sparkle, web for landing pages
-
-### Experience — quick view
-
-```
-2026 → now   Senior iOS Engineer   ·  Gathern Holding (KSA, hospitality)
-2023 → 2026  Senior iOS Engineer   ·  CAFU (Dubai, fuel delivery)
-2022 → 2023  Senior iOS Engineer   ·  VOIS / Vodafone (MarTech Lab)
-2020 → 2022  iOS Engineer          ·  Very Creatives (Budapest)
-2018 → now   Co-founder / Mentor   ·  SwiftCairo Community
-```
-
-### SwiftCairo
-
-Co-founded in 2018, now Egypt's largest iOS community:
-
-- **50+ events** — meetups, workshops, conferences
-- **SwiftCairo Podcast** — 1K+ subscribers, iOS engineering interviews
-- **50+ devs mentored** into iOS roles across the region
-
-### GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MoElnaggar14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoElnaggar14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:moelnaggar14@gmail.com"><img src="https://img.shields.io/badge/Email-moelnaggar14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/MoElnaggar14"><img src="https://img.shields.io/badge/@MoElnaggar14-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/SwiftCairo"><img src="https://img.shields.io/badge/SwiftCairo-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a>
 
 </div>
 
 ---
 
+## 👋 Hi, I'm Mohammed
+
+I help product teams ship iOS apps that are **fast, reliable, and loved by users**. I've led iOS engineering at a hospitality unicorn in KSA, the largest fuel-delivery platform in the UAE, and a multinational telco. On the side, I co-founded **SwiftCairo** — Egypt's largest iOS community — and mentor the next generation of engineers across the region.
+
+I care equally about the product, the people building it, and the code underneath.
+
+---
+
+## 📊 By the numbers
+
 <div align="center">
 
-Open to chatting about **iOS architecture · hiring & mentoring · SwiftCairo collabs · open source**.
+| 🚀 7+ | 🌍 6 | 📦 40% | ⚡ 60% | 👥 50+ | 🎤 50+ |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Years shipping iOS | Countries deployed | App-size reduction | Faster releases | Devs mentored | Community events |
 
-![Profile Views](https://komarev.com/ghpvc/?username=MoElnaggar14&color=007ACC&style=flat-square&label=Profile+Views)
+</div>
+
+> Numbers from real production work at CAFU, VOIS/Vodafone, and SwiftCairo (2018 → present).
+
+---
+
+## 🧭 What I'm doing now
+
+<table>
+<tr><td width="50%" valign="top">
+
+### 🏨 Gathern Holding &nbsp;·&nbsp; *Senior iOS Engineer*
+**2026 → now &nbsp;·&nbsp; Riyadh / Remote**
+
+Building the iOS experience for KSA's leading hospitality platform — chalets, farms, and short-stay rentals for millions of guests across the Kingdom.
+
+`Swift` &nbsp; `SwiftUI` &nbsp; `Modular SPM` &nbsp; `CI/CD`
+
+</td><td width="50%" valign="top">
+
+### 🧡 SwiftCairo &nbsp;·&nbsp; *Co-founder & Mentor*
+**2018 → now &nbsp;·&nbsp; Cairo**
+
+Egypt's largest iOS community. Meetups, workshops, the SwiftCairo Podcast (1K+ subs), and 1:1 mentorship into iOS careers.
+
+[swiftcairo.com](https://github.com/SwiftCairo) &nbsp;·&nbsp; 80★ on session archives
+
+</td></tr>
+</table>
+
+---
+
+## 💼 Where I've shipped before
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CAFU-Dubai%20%C2%B7%202023%E2%80%932026-FF6B00?style=flat-square&labelColor=222" />
+<img src="https://img.shields.io/badge/VOIS%20%2F%20Vodafone-Egypt%20%C2%B7%202022%E2%80%932023-E60000?style=flat-square&labelColor=222" />
+<img src="https://img.shields.io/badge/Very%20Creatives-Budapest%20%C2%B7%202020%E2%80%932022-1A1A1A?style=flat-square&labelColor=222" />
+
+</div>
+
+<details>
+<summary><b>📂 Click to expand: highlights from each role</b></summary>
+
+### 🚗 CAFU &nbsp;·&nbsp; Senior iOS Engineer &nbsp;·&nbsp; *2023 — 2026*
+> The Middle East's largest fuel-delivery & vehicle-services platform.
+
+- **Modernized the legacy iOS app** — cut bundle size by **40%** through modularization and asset strategy.
+- **Rebuilt the release pipeline** on Fastlane + signed CI — **60%** faster, near-zero manual steps.
+- **Architected a modular SPM-based system** so feature teams could ship independently.
+- **Integrated Apple Pay** and multiple B2B payment gateways for the GCC market.
+- **Wired up the analytics stack** (Amplitude, CleverTap, MetricKit) used for every product decision.
+
+### 📡 VOIS / Vodafone &nbsp;·&nbsp; Senior iOS Engineer &nbsp;·&nbsp; *2022 — 2023*
+> Vodafone Intelligent Solutions — MarTech Lab, multi-country.
+
+- Performance work across Vodafone's digital iOS surface.
+- Built MVA10 data architecture with Tealium for cross-market analytics.
+- Cross-functional with squads in the UK, Italy, and Germany.
+
+### 🎨 Very Creatives &nbsp;·&nbsp; iOS Engineer &nbsp;·&nbsp; *2020 — 2022*
+> Boutique product agency, Budapest.
+
+- Led the iOS chapter for *Krush Brands*.
+- Designed the agency's Agile CI/CD playbook for client work.
+
+</details>
+
+---
+
+## 🛠 Selected open source
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🪵 [SwiftMoLogger](https://github.com/MoElnaggar14/SwiftMoLogger)
+Production-grade iOS logging with **MetricKit crash reporting**, 40+ tags, zero dependencies.
+
+`Swift` · `MetricKit` · `SPM`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔐 [SwiftPermissions](https://github.com/MoElnaggar14/SwiftPermissions)
+Modern iOS permissions — **async/await**, Combine, and ready-made SwiftUI views.
+
+`Swift Concurrency` · `Combine` · `SwiftUI`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🕌 [SalahBreak](https://github.com/salahbreak/salahbreak)
+macOS menu-bar app for prayer-time breaks. Sparkle-distributed.
+
+`macOS` · `SwiftUI` · `Sparkle`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### ☕ [Caffeine](https://github.com/MoElnaggar14/Caffeine)
+A modern macOS take on the classic Caffeine utility.
+
+`macOS` · `SwiftUI`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎙 [SwiftCairo MeetupSessions](https://github.com/SwiftCairo/MeetupSessions)
+Code, slides & videos from every SwiftCairo meetup. **80★**.
+
+`Community` · `Talks`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 [iOS Agent Skills](https://github.com/MoElnaggar14/iOS-development-agent-skills)
+Reusable Codex/Claude skills for iOS dev & localization.
+
+`AI tooling` · `iOS workflows`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 What I work with
+
+**Languages** &nbsp;·&nbsp; Swift, Objective-C  
+**UI** &nbsp;·&nbsp; SwiftUI, UIKit, Combine, Swift Concurrency  
+**Architecture** &nbsp;·&nbsp; Clean Architecture, MVVM, TCA, Modular SPM, Coordinators  
+**Apple platform** &nbsp;·&nbsp; Apple Pay, StoreKit, Core Bluetooth, NFC, MetricKit, Sparkle (macOS)  
+**Delivery** &nbsp;·&nbsp; Fastlane, GitHub Actions, Bitrise, signed pipelines, TestFlight  
+**Product data** &nbsp;·&nbsp; Amplitude, CleverTap, Firebase, Tealium  
+**Markets** &nbsp;·&nbsp; Arabic & English localization, GCC payment ecosystems
+
+---
+
+## 🎙 Community & speaking
+
+- **Co-founder, [SwiftCairo](https://github.com/SwiftCairo)** *(2018 → now)* — Egypt's largest iOS community.
+- **Host, SwiftCairo Podcast** — 1K+ subscribers, conversations with engineers across the region.
+- **Mentor** — guided 50+ developers into their first iOS roles via SwiftCairo programs.
+- **Speaker** — talks on clean architecture, performance, and shipping in regulated markets.
+
+> Want me to speak at your event or run a workshop? [Email me](mailto:moelnaggar14@gmail.com).
+
+---
+
+## 💬 Let's talk about
+
+<div align="center">
+
+🚀 **Hiring senior iOS talent** &nbsp;·&nbsp; 🧱 **Architecture audits** &nbsp;·&nbsp; 🇸🇦 **Building for the GCC market** &nbsp;·&nbsp; 🎤 **SwiftCairo collabs**
+
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/Reach_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:moelnaggar14@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+
+<sub>✨ <i>From mobile user to iOS engineer — building things I'd want to use.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:007ACC&height=80&section=footer" />
 
 </div>
