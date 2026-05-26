@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C2A8&height=200&section=header&text=Mohammed%20Elnaggar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%C2%B7%20Cairo%20%E2%86%92%20KSA%20%C2%B7%20Building%20apps%20used%20in%206%2B%20countries&descAlignY=60&descSize=15" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FA7343,100:F05138&height=200&section=header&text=Mohammed%20Elnaggar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%C2%B7%20Cairo%20%E2%86%92%20KSA%20%C2%B7%20Recognized%20by%20Apple%20%EF%A3%BF%20%C2%B7%20Co-founder%2C%20SwiftCairo&descAlignY=60&descSize=15" alt="header" />
 
 ### Senior iOS Engineer @ **Gathern Holding** &nbsp;·&nbsp; ex-CAFU, Vodafone &nbsp;·&nbsp; Co-founder, SwiftCairo
 
 7+ years turning ambitious product ideas into iOS apps that ship — to millions of users, across the GCC, EU, and LATAM.
+
+<br/>
+
+<a href="https://developer.apple.com/community/recognition/#mohammed-elnaggar">
+  <img src="https://img.shields.io/badge/%EF%A3%BF%20Recognized%20by%20Apple-Community%20Recognition-000000?style=for-the-badge&labelColor=000000" alt="Apple Community Recognition" />
+</a>
 
 <a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:moelnaggar14@gmail.com"><img src="https://img.shields.io/badge/Email-moelnaggar14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -20,6 +26,14 @@
 I help product teams ship iOS apps that are **fast, reliable, and loved by users**. I've led iOS engineering at a hospitality unicorn in KSA, the largest fuel-delivery platform in the UAE, and a multinational telco. On the side, I co-founded **SwiftCairo** — Egypt's largest iOS community — and mentor the next generation of engineers across the region.
 
 I care equally about the product, the people building it, and the code underneath.
+
+---
+
+## 🏅 Recognized by Apple
+
+> *"iOS engineer and educator. Builds scalable mobile experiences used by millions throughout the Middle East and North Africa. Co-founder of SwiftCairo, one of the region's most active iOS communities — leading through events, webinars, and technical sessions, and creating educational content to make high-quality iOS development knowledge more widely accessible."*
+>
+> — [**Apple Developer Community Recognition**](https://developer.apple.com/community/recognition/#mohammed-elnaggar)
 
 ---
 
@@ -175,6 +189,7 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 ## 🎙 Community & speaking
 
+- **[Apple Developer Community Recognition](https://developer.apple.com/community/recognition/#mohammed-elnaggar)**  — recognized by Apple for community leadership and iOS education across MENA.
 - **Co-founder, [SwiftCairo](https://github.com/SwiftCairo)** *(2018 → now)* — Egypt's largest iOS community.
 - **Host, SwiftCairo Podcast** — 1K+ subscribers, conversations with engineers across the region.
 - **Mentor** — guided 50+ developers into their first iOS roles via SwiftCairo programs.
@@ -204,6 +219,6 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 <sub>✨ <i>From mobile user to iOS engineer — building things I'd want to use.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:007ACC&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,50:FA7343,100:FFB347&height=80&section=footer&reversal=true" />
 
 </div>
