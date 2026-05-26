@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FA7343,100:F05138&height=200&section=header&text=Mohammed%20Elnaggar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Global%20iOS%20Engineer%20%C2%B7%20Shipping%20across%20MENA%2C%20Europe%20%26%20LATAM%20%C2%B7%20Recognized%20by%20Apple%20%EF%A3%BF&descAlignY=60&descSize=15" alt="Mohammed Elnaggar — Global iOS Engineer" />
+<img src="./banner.svg" alt="Mohammed Elnaggar, Global iOS Engineer" />
 
 ### Senior iOS Engineer @ **[Gathern Holding](https://gathern.co/en)** &nbsp;·&nbsp; ex-[CAFU](https://cafu.com), Vodafone
 
@@ -255,6 +255,6 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 <sub>✨ <i>From mobile user to iOS engineer, building things I'd want to use.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,50:FA7343,100:FFB347&height=80&section=footer&reversal=true" alt="" />
+<img src="./footer.svg" alt="" />
 
 </div>
