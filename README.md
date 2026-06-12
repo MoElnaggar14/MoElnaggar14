@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="./banner.svg" alt="Mohammed Elnaggar, Global iOS Engineer" />
 
@@ -43,7 +43,7 @@ I care equally about the product, the people building it, and the code underneat
 
 ## 📊 By the numbers
 
-<div align="center">
+<div align="left">
 
 | 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 8+ | 📦 40% | 👥 90+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -72,7 +72,7 @@ Building the iOS experience for KSA's leading peer-to-peer vacation-rental platf
 ### 🧡 [SwiftCairo](https://github.com/SwiftCairo) &nbsp;·&nbsp; *Co-founder & Mentor*
 **2018 → now &nbsp;·&nbsp; Cairo**
 
-Egypt's largest iOS community. Meetups, workshops, the SwiftCairo Podcast (1K+ subs), and 1:1 mentorship into iOS careers.
+Egypt's largest iOS community. Meetups, workshops, the [SwiftCairo YouTube](https://www.youtube.com/swiftcairo) show with global iOS devs, and 1:1 mentorship into iOS careers.
 
 [github.com/SwiftCairo](https://github.com/SwiftCairo) &nbsp;·&nbsp; 80★ on session archives
 
@@ -117,7 +117,7 @@ My own prayer-companion app spanning the **entire Apple ecosystem**: iPhone, iPa
 
 ## 💼 Where I've shipped before
 
-<div align="center">
+<div align="left">
 
 <a href="https://cafu.com"><img src="https://img.shields.io/badge/CAFU-Dubai%20%C2%B7%202023%E2%80%932026-FF6B00?style=flat-square&labelColor=222" /></a>
 <img src="https://img.shields.io/badge/VOIS%20%2F%20Vodafone-Egypt%20%C2%B7%202022%E2%80%932023-E60000?style=flat-square&labelColor=222" />
@@ -223,7 +223,7 @@ Reusable Codex/Claude skills for iOS dev & localization.
 **Product data** &nbsp;·&nbsp; Amplitude, CleverTap, Firebase, Tealium  
 **Markets** &nbsp;·&nbsp; Arabic & English localization, GCC payment ecosystems
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/MoElnaggar14">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoElnaggar14&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FA7343&text_color=8b949e&icon_color=F05138" alt="Most used languages" />
@@ -247,13 +247,13 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 ## 💬 Let's talk about
 
-<div align="center">
+<div align="left">
 
 🚀 **Hiring senior iOS talent** &nbsp;·&nbsp; 🧱 **Architecture audits** &nbsp;·&nbsp; 🌍 **Going global from MENA** &nbsp;·&nbsp; 🕌 **Faith-tech & Islamic services** &nbsp;·&nbsp; 🎤 **SwiftCairo collabs**
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/Reach_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -261,7 +261,7 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <sub>✨ <i>From mobile user to iOS engineer, building things I'd want to use.</i></sub>
 
