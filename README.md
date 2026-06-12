@@ -6,7 +6,7 @@
 
 ### Co-founder, **[SwiftCairo](https://github.com/SwiftCairo)** &nbsp;·&nbsp; Lead, **[Ameen app](https://ameenapp.org/)**
 
-7+ years turning ambitious product ideas into iOS apps that ship to **millions of users**, across **three continents** (MENA, Europe & LATAM).
+8 years turning ambitious product ideas into iOS apps that ship to **millions of users**, across **three continents** (MENA, Europe & LATAM).
 
 <br/>
 
@@ -43,7 +43,7 @@ I care equally about the product, the people building it, and the code underneat
 
 <div align="center">
 
-| 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 7+ | 📦 40% | 👥 50+ |
+| 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 8 | 📦 40% | 👥 50+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Ramadan users on [Ameen](https://ameenapp.org/) | Guests on [Gathern](https://gathern.co/en) | Continents shipped to | Years building iOS | App-size reduction | Devs mentored |
 
