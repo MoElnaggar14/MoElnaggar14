@@ -32,7 +32,6 @@
   <!-- Subtitle -->
   <text x="600" y="160" filter="url(#ds)"
         font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="20" font-weight="500" fill="#ffffff" fill-opacity="0.95" text-anchor="middle">
-    Global iOS Engineer  ·  Shipping across MENA, Europe &amp; LATAM  ·  Recognized by Apple
-  </text>
+        font-size="20" font-weight="500" fill="#ffffff" fill-opacity="0.95" text-anchor="middle"
+        xml:space="preserve">Global iOS Engineer  ·  Shipping across MENA, Europe &amp; LATAM  ·  Recognized by Apple</text>
 </svg>
