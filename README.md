@@ -236,7 +236,7 @@ Reusable Codex/Claude skills for iOS dev & localization.
 ## 🎙 Community & speaking
 
 - **Co-founder, [SwiftCairo](https://github.com/SwiftCairo)** *(2018 → now)*. Egypt's largest iOS community.
-- **Mentor.** 67 sessions on [ADPList](https://adplist.org/mentors/mohammed-elnaggar), plus 20 to 30 more informally through SwiftCairo, helping developers grow into iOS roles.
+- **Mentor.** +100 sessions on [ADPList](https://adplist.org/mentors/mohammed-elnaggar), informally through SwiftCairo, helping developers grow into iOS roles.
 - **Host, [SwiftCairo on YouTube](https://www.youtube.com/swiftcairo).** Interviews and live sessions with iOS engineers from around the world.
 - **Writer, [moelnaggar14.substack.com](https://moelnaggar14.substack.com).** Notes on iOS engineering, architecture, and community.
 - **Speaker.** Talks on clean architecture, performance, and shipping in regulated markets.
