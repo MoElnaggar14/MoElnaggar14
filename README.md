@@ -17,6 +17,8 @@
 <a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:moelnaggar14@gmail.com"><img src="https://img.shields.io/badge/Email-moelnaggar14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/MoElnaggar14"><img src="https://img.shields.io/badge/@MoElnaggar14-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.youtube.com/swiftcairo"><img src="https://img.shields.io/badge/YouTube-SwiftCairo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://moelnaggar14.substack.com"><img src="https://img.shields.io/badge/Substack-Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 <a href="https://github.com/SwiftCairo"><img src="https://img.shields.io/badge/SwiftCairo-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a>
 
 </div>
@@ -43,9 +45,9 @@ I care equally about the product, the people building it, and the code underneat
 
 <div align="center">
 
-| 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 8+ | 📦 40% | 👥 50+ |
+| 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 8+ | 📦 40% | 👥 90+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Ramadan users on [Ameen](https://ameenapp.org/) | Guests on [Gathern](https://gathern.co/en) | Regions shipped to | Years building iOS | App-size reduction | Devs mentored |
+| Ramadan users on [Ameen](https://ameenapp.org/) | Guests on [Gathern](https://gathern.co/en) | Regions shipped to | Years building iOS | App-size reduction | Mentoring sessions |
 
 </div>
 
@@ -226,8 +228,9 @@ Reusable Codex/Claude skills for iOS dev & localization.
 ## 🎙 Community & speaking
 
 - **Co-founder, [SwiftCairo](https://github.com/SwiftCairo)** *(2018 → now)*. Egypt's largest iOS community.
-- **Host, SwiftCairo Podcast.** 1K+ subscribers, conversations with engineers across the region.
-- **Mentor.** Guided 50+ developers into their first iOS roles via SwiftCairo programs.
+- **Mentor.** 67 sessions on [ADPList](https://adplist.org/mentors/mohammed-elnaggar), plus 20 to 30 more informally through SwiftCairo, helping developers grow into iOS roles.
+- **Host, [SwiftCairo on YouTube](https://www.youtube.com/swiftcairo).** Interviews and live sessions with iOS engineers from around the world.
+- **Writer, [moelnaggar14.substack.com](https://moelnaggar14.substack.com).** Notes on iOS engineering, architecture, and community.
 - **Speaker.** Talks on clean architecture, performance, and shipping in regulated markets.
 
 > Want me to speak at your event or run a workshop? [Email me](mailto:moelnaggar14@gmail.com).
