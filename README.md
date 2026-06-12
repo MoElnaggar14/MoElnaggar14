@@ -4,7 +4,7 @@
 
 ### Senior iOS Engineer @ **[Gathern Holding](https://gathern.co/en)** &nbsp;·&nbsp; ex-[CAFU](https://cafu.com), Vodafone
 
-### Co-founder, **[SwiftCairo](https://github.com/SwiftCairo)** &nbsp;·&nbsp; Lead, **[Ameen](https://ameenapp.org/)** &nbsp;·&nbsp; Creator, **[SalahBreak](https://github.com/salahbreak/salahbreak)**
+### Co-founder, **[SwiftCairo](https://github.com/SwiftCairo)** &nbsp;·&nbsp; Creator, **[SalahBreak](https://github.com/salahbreak/salahbreak)**
 
 8+ years turning ambitious product ideas into iOS apps that ship to **millions of users**, across **three regions** (MENA, Europe & LATAM).
 
