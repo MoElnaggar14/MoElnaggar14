@@ -223,6 +223,14 @@ Reusable Codex/Claude skills for iOS dev & localization.
 **Product data** &nbsp;·&nbsp; Amplitude, CleverTap, Firebase, Tealium  
 **Markets** &nbsp;·&nbsp; Arabic & English localization, GCC payment ecosystems
 
+<div align="center">
+
+<a href="https://github.com/MoElnaggar14">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoElnaggar14&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FA7343&text_color=8b949e&icon_color=F05138" alt="Most used languages" />
+</a>
+
+</div>
+
 ---
 
 ## 🎙 Community & speaking
