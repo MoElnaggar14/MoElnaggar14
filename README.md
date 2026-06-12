@@ -6,12 +6,12 @@
 
 ### Co-founder, **[SwiftCairo](https://github.com/SwiftCairo)** &nbsp;·&nbsp; Lead, **[Ameen app](https://ameenapp.org/)**
 
-8+ years turning ambitious product ideas into iOS apps that ship to **millions of users**, across **three continents** (MENA, Europe & LATAM).
+8+ years turning ambitious product ideas into iOS apps that ship to **millions of users**, across **three regions** (MENA, Europe & LATAM).
 
 <br/>
 
 <a href="https://developer.apple.com/community/recognition/#mohammed-elnaggar">
-  <img src="https://img.shields.io/badge/%EF%A3%BF%20Recognized%20by%20Apple-Community%20Recognition-000000?style=for-the-badge&labelColor=000000" alt="Apple Community Recognition" />
+  <img src="https://img.shields.io/badge/Recognized%20by%20Apple-Community%20Recognition-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" alt="Apple Community Recognition" />
 </a>
 
 <a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -25,7 +25,7 @@
 
 ## 👋 Hi, I'm Mohammed
 
-I help product teams ship iOS apps that are **fast, reliable, and loved by users**, wherever in the world they live. I've led iOS engineering at a hospitality unicorn in KSA ([Gathern](https://gathern.co/en)), the largest fuel-delivery platform in the UAE ([CAFU](https://cafu.com)), a multinational telco operating across Europe (Vodafone), and a Budapest-based product agency serving LATAM clients. On the side, I co-founded **[SwiftCairo](https://github.com/SwiftCairo)**, Egypt's largest iOS community, and lead the iOS team at **[Ameen](https://ameenapp.org/)**, building faith-tech that serves Muslims worldwide.
+I help product teams ship iOS apps that are **fast, reliable, and loved by users**, wherever in the world they live. I've led iOS engineering at a hospitality unicorn in KSA ([Gathern](https://gathern.co/en)), the Middle East's largest fuel-delivery platform ([CAFU](https://cafu.com)), a multinational telco operating across Europe (Vodafone), and a Budapest-based product agency serving LATAM clients. On the side, I co-founded **[SwiftCairo](https://github.com/SwiftCairo)**, Egypt's largest iOS community, and lead the iOS team at **[Ameen](https://ameenapp.org/)**, building faith-tech that serves Muslims worldwide.
 
 I care equally about the product, the people building it, and the code underneath.
 
@@ -45,7 +45,7 @@ I care equally about the product, the people building it, and the code underneat
 
 | 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 8+ | 📦 40% | 👥 50+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Ramadan users on [Ameen](https://ameenapp.org/) | Guests on [Gathern](https://gathern.co/en) | Continents shipped to | Years building iOS | App-size reduction | Devs mentored |
+| Ramadan users on [Ameen](https://ameenapp.org/) | Guests on [Gathern](https://gathern.co/en) | Regions shipped to | Years building iOS | App-size reduction | Devs mentored |
 
 </div>
 
@@ -225,7 +225,6 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 ## 🎙 Community & speaking
 
-- **[Apple Developer Community Recognition](https://developer.apple.com/community/recognition/#mohammed-elnaggar)**. Recognized by Apple for community leadership and iOS education across MENA.
 - **Co-founder, [SwiftCairo](https://github.com/SwiftCairo)** *(2018 → now)*. Egypt's largest iOS community.
 - **Host, SwiftCairo Podcast.** 1K+ subscribers, conversations with engineers across the region.
 - **Mentor.** Guided 50+ developers into their first iOS roles via SwiftCairo programs.
