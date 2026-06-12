@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <img src="./banner.svg" alt="Mohammed Elnaggar, Global iOS Engineer" />
 
@@ -43,7 +43,7 @@ I care equally about the product, the people building it, and the code underneat
 
 ## 📊 By the numbers
 
-<div align="left">
+<div align="center">
 
 | 🌙 2M+ | 🏨 Millions | 🌍 3 | 🚀 8+ | 📦 40% | 👥 90+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -117,7 +117,7 @@ My own prayer-companion app spanning the **entire Apple ecosystem**: iPhone, iPa
 
 ## 💼 Where I've shipped before
 
-<div align="left">
+<div align="center">
 
 <a href="https://cafu.com"><img src="https://img.shields.io/badge/CAFU-Dubai%20%C2%B7%202023%E2%80%932026-FF6B00?style=flat-square&labelColor=222" /></a>
 <img src="https://img.shields.io/badge/VOIS%20%2F%20Vodafone-Egypt%20%C2%B7%202022%E2%80%932023-E60000?style=flat-square&labelColor=222" />
@@ -247,13 +247,13 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 ## 💬 Let's talk about
 
-<div align="left">
+<div align="center">
 
 🚀 **Hiring senior iOS talent** &nbsp;·&nbsp; 🧱 **Architecture audits** &nbsp;·&nbsp; 🌍 **Going global from MENA** &nbsp;·&nbsp; 🕌 **Faith-tech & Islamic services** &nbsp;·&nbsp; 🎤 **SwiftCairo collabs**
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/moelnaggar14/"><img src="https://img.shields.io/badge/Reach_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -261,7 +261,7 @@ Reusable Codex/Claude skills for iOS dev & localization.
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <sub>✨ <i>From mobile user to iOS engineer, building things I'd want to use.</i></sub>
 
